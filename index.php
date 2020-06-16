@@ -1,5 +1,5 @@
 <html>
     <div class="center">
-        <?php echo "Второй коммит"?>
+        <?php echo "Третий коммит"?>
     </div>
 </html>
